@@ -1,4 +1,4 @@
-public class Main {
+public class AirconditionerMain {
 public static void main(String[] args) {
 
    AirConditioner ac = new AirConditioner();
